@@ -1,1 +1,3 @@
 # Text-Preprocessing-and-Encoding
+
+In this project we work upon the Twitter customer support sample data and perform text-preprocessing and encoding techniques on the 'text' feature. The objective is to perform text data cleaning through text preprocessing followed by application of encoding techniques like One-hot-Encoding (to indicate presence or absence of words/text), Bag of Words (to obtain frequency of words), N-grams (to represent contiguous sequences of n items from given text) and TF-IDF (to help identify important words in the text). We have also done a word cloud representation to summarize and visualize the most prominent words in the feature column. In the end we discuss the advantages and disadvantages of the encoding techniques used.
